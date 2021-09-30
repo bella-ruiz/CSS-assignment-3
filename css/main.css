@@ -42,7 +42,7 @@ img {
     grid-template-areas:
       "header header header header header"
       "pairing pairing pairing arial georgia"
-      "bobwhite-quail bobwhite-quail bobwhite-quail readability readability"  "bobwhite-quail bobwhite-quail bobwhite-quail line-length line-length"
+      "bobwhite-quail bobwhite-quail bobwhite-quail line-length readability"  "bobwhite-quail bobwhite-quail bobwhite-quail line-length readability"
       "typeface typeface typeface helvetica helvetica"
       "footer footer footer footer footer";
 
@@ -205,7 +205,7 @@ a:hover {
   #header {
      padding: 5em;
 }
-  #footer
+
   #bobwhite-quail {
      padding: 1.2em;
      padding-bottom: 0em;
